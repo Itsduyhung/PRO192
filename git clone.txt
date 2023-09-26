@@ -1,0 +1,25 @@
+git clone
+git commit
+git push
+git pull
+git fetch
+git merge
+ git base
+git stash
+git cherry-pick
+
+
+
+
+git clone
+git status
+cd PRO192/
+git status
+git add
+^C
+git commit -m"new file"
+git push
+
+
+
+
